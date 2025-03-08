@@ -152,8 +152,8 @@
     margin-left: 50px;
 }
 .first-pic{
-    width: 320px;
-    margin-left: -10px;
+    width: 100%;
+    margin: 0;
 }
 .apartment{
     position: relative;
@@ -189,7 +189,7 @@
 }
 .rating1{
     position: relative;
-    top: -180px;
+    top: -217px;
     width: 50px;
     margin-left: 8px;
  }
@@ -229,7 +229,7 @@ span {
     margin-bottom: 15px;
 }
 #first-bed,#second-bed,#third-bed {
-    width: 290px;
+    width: 100%;
     margin-left: 5px;
     margin-top: 5px;
 }
@@ -260,7 +260,7 @@ span {
     font-size: 30px;
  }
 .athens-pic {
-    width: 300px;
+    width: 100%;
 }
 .five-minutes {
     float: right;
@@ -320,3 +320,6 @@ span {
 .section-title {
     margin-top: 10px;
 }
+
+/* utility style */
+.left-align {text-align: left;}
