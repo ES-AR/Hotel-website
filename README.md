@@ -60,10 +60,10 @@ This project is a responsive hotel website designed for mobile users. It allows 
 3. Open `index.html` in a web browser.
 
 ## Presentation Link
-[Presentation Link]()
+[Presentation Link](https://www.loom.com/share/4e410c06107f4d63b2e24647f425477e?sid=0d19f597-95ef-4b74-9d11-a3982dae16ed)
 
 ## Author
-Name: [Muhammad Farouk]
+Name: [Sadiq Ridwan Abubakar]
 Contact: [sadiqridwan347@gmail.com]
  [[Github Profile](https://github.com/ES-AR)]
 
